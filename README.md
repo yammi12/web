@@ -366,7 +366,62 @@ Password: <input type="password" name="password"><br/>
 </html>
 
 
+                 program 9 
 
+   <!Doctype html>
+<html>
+  <head>
+  <body>
+    <h1>javascript arrays
+    saab,valvo,bmw</h1>
+    <p id ="demo"></p>
+    <script>
+      const cars=[];
+      cars[0]="saab";
+      cars[1]="volvo";
+      cars[2]="Bmw";
+      document.get element by id ("demo").inner html=cars;
+      </head>
+    </script>
+  </body>
+</html>
+
+
+                   program 10
+
+
+     <!Doctype html>
+<html>
+  <body>
+    <h1>javascript functions </h1>
+    <p> call a function which performs a calculation and returns the result :12</h>
+     <p id ="demo"></p> 
+     <script>
+     function my function (p1, p2);
+     return p1*p2
+     result=my function (4,3);
+       document.get element by Id ("demo").inner html=result;
+     </script>
+    </body>
+</html>
+
+
+              program 11
+
+
+       Doctype html>
+<html>
+  <body>
+    <h2>javascript if</h2>
+    <p> Display "good day! if the hours less 
+    thank 18:00;</p>
+    <h id ="demo"> good evening!</h>
+    <script>
+      if(new data () get hours ()<18)
+      document.get element by id ("demo").inner html="good day";
+    </script>
+  </body>
+</html>
 
 
 
